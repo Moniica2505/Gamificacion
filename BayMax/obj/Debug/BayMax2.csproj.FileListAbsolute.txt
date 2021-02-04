@@ -1,0 +1,116 @@
+C:\Users\monic\source\repos\BayMax2\BayMax2\bin\Debug\BayMax2.exe.config
+C:\Users\monic\source\repos\BayMax2\BayMax2\bin\Debug\BayMax2.exe
+C:\Users\monic\source\repos\BayMax2\BayMax2\bin\Debug\BayMax2.pdb
+C:\Users\monic\source\repos\BayMax2\BayMax2\obj\Debug\MainWindow.g.cs
+C:\Users\monic\source\repos\BayMax2\BayMax2\obj\Debug\App.g.cs
+C:\Users\monic\source\repos\BayMax2\BayMax2\obj\Debug\BayMax2_MarkupCompile.cache
+C:\Users\monic\source\repos\BayMax2\BayMax2\obj\Debug\BayMax2_MarkupCompile.lref
+C:\Users\monic\source\repos\BayMax2\BayMax2\obj\Debug\MainWindow.baml
+C:\Users\monic\source\repos\BayMax2\BayMax2\obj\Debug\BayMax2.g.resources
+C:\Users\monic\source\repos\BayMax2\BayMax2\obj\Debug\BayMax2.Properties.Resources.resources
+C:\Users\monic\source\repos\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.GenerateResource.Cache
+C:\Users\monic\source\repos\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.CoreCompileInputs.cache
+C:\Users\monic\source\repos\BayMax2\BayMax2\obj\Debug\BayMax2.exe
+C:\Users\monic\source\repos\BayMax2\BayMax2\obj\Debug\BayMax2.pdb
+C:\Users\monic\source\repos\BayMax2\BayMax2\obj\Debug\BayMax2.csprojResolveAssemblyReference.cache
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\bin\Debug\BayMax2.exe.config
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\bin\Debug\BayMax2.exe
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\bin\Debug\BayMax2.pdb
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\obj\Debug\BayMax2.csprojResolveAssemblyReference.cache
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\obj\Debug\MainWindow.g.cs
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\obj\Debug\App.g.cs
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\obj\Debug\BayMax2_MarkupCompile.cache
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\obj\Debug\BayMax2_MarkupCompile.lref
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\obj\Debug\MainWindow.baml
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\obj\Debug\BayMax2.g.resources
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\obj\Debug\BayMax2.Properties.Resources.resources
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.GenerateResource.cache
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.CoreCompileInputs.cache
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\obj\Debug\BayMax2.exe
+C:\Users\nou model\Downloads\Telegram Desktop\BayMax2\BayMax2\obj\Debug\BayMax2.pdb
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\BayMax2.csprojResolveAssemblyReference.cache
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\Baymax-Superhero.g.cs
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\MainWindow.g.cs
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\App.g.cs
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\BayMax2_MarkupCompile.cache
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\BayMax2_MarkupCompile.lref
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\BayMax2.exe
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\BayMax2.pdb
+C:\Users\nou model\Desktop\BayMax2\BayMax2\bin\Debug\BayMax2.exe.config
+C:\Users\nou model\Desktop\BayMax2\BayMax2\bin\Debug\BayMax2.exe
+C:\Users\nou model\Desktop\BayMax2\BayMax2\bin\Debug\BayMax2.pdb
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\MainWindow.baml
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\Baymax-Superhero.baml
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\BayMax2.g.resources
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\BayMax2.Properties.Resources.resources
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.GenerateResource.cache
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.CoreCompileInputs.cache
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\Juego.g.cs
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\Juego.baml
+C:\Users\nou model\Desktop\BayMax2\BayMax2\obj\Debug\App.baml
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\BayMax2.csprojResolveAssemblyReference.cache
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\Juego.g.cs
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\MainWindow.g.cs
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\App.g.cs
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\BayMax2_MarkupCompile.cache
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\BayMax2_MarkupCompile.lref
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\App.baml
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\Juego.baml
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\MainWindow.baml
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\BayMax2.g.resources
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\BayMax2.pdb
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\bin\Debug\BayMax2.exe.config
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\bin\Debug\BayMax2.exe
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\bin\Debug\BayMax2.pdb
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\BayMax2.Properties.Resources.resources
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.GenerateResource.cache
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.CoreCompileInputs.cache
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\BayMax2.exe
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\bin\Debug\Avatar.accdb
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\BayMax2_Content.g.cs
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\Interop.WMPLib.dll
+C:\Users\nou model\Desktop\ipo\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.ResolveComReference.cache
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\bin\Debug\Avatar.accdb
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\bin\Debug\BayMax2.exe.config
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\bin\Debug\BayMax2.exe
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\bin\Debug\BayMax2.pdb
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.csprojResolveAssemblyReference.cache
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\Interop.WMPLib.dll
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.ResolveComReference.cache
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\Juego.g.cs
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\MainWindow.g.cs
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\App.g.cs
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2_Content.g.cs
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2_MarkupCompile.cache
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2_MarkupCompile.lref
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\App.baml
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\Juego.baml
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\MainWindow.baml
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.g.resources
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.Properties.Resources.resources
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.GenerateResource.Cache
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.CoreCompileInputs.cache
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.exe
+C:\Users\monic\OneDrive\Escritorio\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.pdb
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\bin\Debug\Avatar.accdb
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\bin\Debug\BayMax2.exe.config
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\bin\Debug\BayMax2.exe
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\bin\Debug\BayMax2.pdb
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.csprojAssemblyReference.cache
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\Interop.WMPLib.dll
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.ResolveComReference.cache
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\Juego.g.cs
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\MainWindow.g.cs
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\App.g.cs
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2_Content.g.cs
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2_MarkupCompile.cache
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2_MarkupCompile.lref
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\App.baml
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\Juego.baml
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\MainWindow.baml
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.g.resources
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.Properties.Resources.resources
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.GenerateResource.cache
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.csproj.CoreCompileInputs.cache
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.exe
+D:\Ingeniería Informática\4º Año Ing.Informatica\2º Cuatrimestre\IPO II\BayMax2 (4)\BayMax2\BayMax2\obj\Debug\BayMax2.pdb
