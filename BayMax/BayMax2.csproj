@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5F8CA4F7-F806-4F04-ACD3-91518949A327}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BayMax2</RootNamespace>
+    <AssemblyName>BayMax2</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="Juego.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Avatar.cs" />
+    <Compile Include="Juego.xaml.cs">
+      <DependentUpon>Juego.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\photo_2018-04-04_12-31-47.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\dark-starry-night-sky-pics-22083.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\Comer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\Dormir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\Jugar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\descarga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\bocadillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\care.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\dialogue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\recordingmic-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\baymax.jpg" />
+    <Resource Include="Recursos\GoGo.jpg" />
+    <Resource Include="Recursos\hiro.jpg" />
+    <Resource Include="Recursos\Honey-Lemon.jpg" />
+    <Resource Include="Recursos\wasabi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\Big_Hero_6_in_uniform.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\game.png" />
+    <Resource Include="Recursos\game1.png" />
+    <Resource Include="Recursos\game2.png" />
+    <Resource Include="Recursos\game3.png" />
+    <Resource Include="Recursos\game4.png" />
+    <Resource Include="Recursos\game5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\game6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\game7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\game8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\lblFinal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\fondo_juego.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\burguer.png" />
+    <Resource Include="Recursos\cupcake.png" />
+    <Resource Include="Recursos\pineapple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\enfermo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\charging.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\icon-charging.png" />
+    <Resource Include="Recursos\icon-lowbattery.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\reiniciar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\logro_120puntos.png" />
+    <Resource Include="Recursos\logro_120puntosN.png" />
+    <Resource Include="Recursos\logro_barras.png" />
+    <Resource Include="Recursos\logro_bateria.png" />
+    <Resource Include="Recursos\logro_comer.png" />
+    <Resource Include="Recursos\logro_conseguido.png" />
+    <Resource Include="Recursos\logro_juego.png" />
+    <Resource Include="Recursos\logro_puntos.png" />
+    <Resource Include="Recursos\puntos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\fuego.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Avatar.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="snd_Principal.mp3" />
+    <Resource Include="Recursos\sound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
